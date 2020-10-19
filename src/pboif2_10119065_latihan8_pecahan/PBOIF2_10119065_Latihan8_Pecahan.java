@@ -1,3 +1,4 @@
+package pboif2_10119065_latihan8_pecahan;
 /*
  * @author
  * NAMA                 : Fachriansyah Muhammad Nur Ihsan
@@ -6,8 +7,6 @@
  * Deskripsi Program    : Program ini menampilkan bilangan pecahan 
  *
  */
-package pboif2_10119065_latihan8_pecahan;
-
 public class PBOIF2_10119065_Latihan8_Pecahan {
     public static void main(String[] args) {
         float f;
